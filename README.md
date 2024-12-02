@@ -1,2 +1,3 @@
 # OS
-Operating Systems
+Repository for Lecture 'Operating Systems' 
+
