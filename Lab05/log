@@ -1,0 +1,19 @@
+/home/ppapadoe/Lab05
+log
+-bash: cd: /path/to/directory: No such file or directory
+-bash: cd: /path/to/directory: No such file or directory
+stat: cannot stat 'filename': No such file or directory
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 303053      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1244/ppapadoe)   Gid: ( 1246/ppapadoe)
+Access: 2024-12-16 12:32:47.431793769 +0200
+Modify: 2024-12-16 12:32:47.431793769 +0200
+Change: 2024-12-16 12:32:47.431793769 +0200
+ Birth: -
+cp: cannot stat 'source.txt': No such file or directory
+mv: cannot stat 'oldanme.txt': No such file or directory
+rm: cannot remove 'file_to_delete.txt': No such file or directory
+rmdir: failed to remove 'empty_directory': No such file or directory
+rm: cannot remove 'directory_to_delete': No such file or directory
+cat: file.txt: No such file or directory
